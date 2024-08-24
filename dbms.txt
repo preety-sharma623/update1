@@ -1,0 +1,1 @@
+create table customer8(cust_id INTEGER PRIMARYKEY,cust_name VARCHAR(20));
